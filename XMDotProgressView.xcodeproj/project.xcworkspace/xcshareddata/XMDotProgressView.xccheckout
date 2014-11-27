@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F91E80C2-A3F6-426C-B719-70F49395D133</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XMDotProgressView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B2325D9F09458B7583514D2E60230D6666D6CC48</key>
+		<string>github.com:Phelthas/XMDotProgressView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XMDotProgressView.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B2325D9F09458B7583514D2E60230D6666D6CC48</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:Phelthas/XMDotProgressView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B2325D9F09458B7583514D2E60230D6666D6CC48</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B2325D9F09458B7583514D2E60230D6666D6CC48</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XMDotProgressView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
